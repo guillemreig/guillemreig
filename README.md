@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
-<h3 align="center">An avid Full Stack Developer from Barcelona that turned himself into a Berliner (but NOT this 🍩 kind of berliner)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guillemreig&label=Profile%20views&color=0e75b6&style=flat" alt="guillemreig" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillemreig" alt="guillemreig" /></a> </p>
+<h3 align="center">An avid Full Stack Developer from Barcelona that turned himself into a Berliner</h3>
+<h3 align="center">(but NOT this 🍩 kind of berliner)<h3>
 
 - 🔭 I’m currently working on **my Linkedin, CV and overall job search.**
 
